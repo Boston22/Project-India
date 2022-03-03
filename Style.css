@@ -1,1 +1,12 @@
+body {
 
+     font-family: 'TOP GUN', sans-serif;
+
+@font-face {
+    font-family: 'TOP GUN';
+    font-style: normal;
+    font-weight: 300;
+    src: local('TOP GUN'), url('https://fonts.cdnfonts.com/s/46740/TopGun-vmK0Z.woff') format('woff');
+}
+
+@import url('http://fonts.cdnfonts.com/css/top-gun');
