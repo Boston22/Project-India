@@ -1,2 +1,2 @@
 # WHprojectIndia
-https://boston22.github.io/WHprojectIndia/
+https://boston22.github.io/Project-India/
